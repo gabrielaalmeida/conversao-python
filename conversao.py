@@ -1,4 +1,4 @@
-#Conversão de algarismos (0 a 10): arábico para romano/romano para arábico
+#Conversão de algarismos (1 a 10): arábico para romano/romano para arábico
 
 tipo = int(input('Escolha o tipo de conversão que deseja ser feita -> 1 = Arábico / 2 = Romano: '))
 
